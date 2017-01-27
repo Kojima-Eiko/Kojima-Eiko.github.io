@@ -1,0 +1,238 @@
+.clearfix::after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+a {
+	text-decoration: none; 
+}
+
+.header {
+	position: fixed;
+	top: 0px;
+	z-index: 10;
+	background-color: #2F4F4F;
+	height: 100px;
+	width: 100%;
+}
+.header h1 {
+	float: left;
+	color: #FFFFF0;
+	font-family: cursive;
+	font-size: 60px;
+	margin-top: 0px;
+	border-style: none;
+	padding-left: 30px;
+}
+
+.header ul {
+	float: right;
+}
+
+.header a{
+	color: #FFFFF0;
+}
+
+.header li {
+	float: left;
+	margin: 20px;
+	color: #FFFFF0;
+	font-size: 20px;
+	border-left: 1px solid #FFFFF0;
+}
+
+li {
+    list-style: none;
+}
+
+
+.mv {
+	background-image: url(https://www.pakutaso.com/shared/img/thumb/COW121013855_TP_V.jpg);
+    margin-top: 100px;
+    height: 700px;
+}
+
+.comment {
+	font-size: 40px;
+	font-weight: bold;
+	opacity: 1;
+	color: #FFFFE0;
+}
+
+.comment-1 {
+	text-align: center;
+	border-style: none;
+	margin-bottom: 20px;
+	padding-top: 100px;
+}
+
+.comment-2 {
+	text-align: center;
+	border-style: none;
+	margin: 20px 0px;
+
+}
+
+h2 {
+	text-align: center;
+	border-style: none;
+	margin: 1px;
+	padding: 10px;
+	background-color: #008B8B;
+	font-family: cursive;
+	font-size: 35px;
+	color: #FFFFF0;
+}
+
+.jp {
+	font-size: 15px;
+}
+
+.acticle {
+	float: left;
+    margin: 0 auto;
+    width: 250px;
+	text-align: center;
+}
+
+.floor {
+	float: left;
+	margin: 0 auto;
+    width: 250px;
+	text-align: center;
+}
+
+.interior {
+	text-align: center;
+	margin-top: 0px; 
+	font-size: 25px;
+	font-weight: ;
+}
+
+.interior-photos-l {
+	border: 0 solid #FFFFFF;
+	margin-left: 25%;
+}
+
+.interior-photos-r {
+	border: 0 solid #FFFFFF;
+	margin-right: 25%;
+}
+
+.peripheral {
+	float: left;
+	margin: 0 auto;
+    width: 250px;
+    text-align: center;
+}
+
+.shop {
+	border: 1px solid #FFFFFF;
+	margin-top: 0px;
+}
+
+.lacation {
+    float: left;
+    border-style: none;
+	margin-left: 25%;
+}
+
+.lacation a {
+	border: 1px solid #98FB98;
+	padding: 5px;
+	background-color: #98FB98;
+	box-shadow: 5px 5px #8FBC8F;
+}
+
+.station {
+    float: right;
+    border-style: none;
+	margin-right: 25%;
+}
+
+footer {
+	background-color: #2F4F4F;
+	color: #FFFFF0;
+}
+
+.company {
+	float: left;
+	border-style: none;
+	margin-left: 15%;
+}
+
+.attension {
+	text-align: center;
+}
+
+.attension-2 {
+	font-size: 60px;
+}
+
+.address {
+	float: left;
+}
+
+.btn-wrapper {
+    float: right;
+    border-style: none;
+    text-align: center;
+    margin-right: 15%;
+}
+
+
+.btn-wrapper h4 {
+	float: right;
+	border-style: none;
+	margin-top: 0px;
+	padding-left: 30px;
+	color: #FFFFF0;
+}
+
+
+
+.button {
+	border: 1px solid #2F4F4F;
+	margin: 1px;
+}
+
+.pitatto {
+	text-align: center;
+	background-color: #00FF00;
+}
+
+.suumo {
+	text-align: center;
+	background-color: #00CED1;
+}
+
+.sumaity {
+	text-align: center;
+	background-color: #FFA500;
+}
+
+.btn {
+	display: inline-block;
+	opacity: 0.8;
+    margin: 5px 40px 5px 20px;
+    width: 150px;
+    padding: 8px 24px;
+    color: white;
+    font-size: 20px;
+    
+}
+
+.btn:hover {
+	opacity: 1.0;
+}
+
+
+
+
+
+
+
+
+
+
