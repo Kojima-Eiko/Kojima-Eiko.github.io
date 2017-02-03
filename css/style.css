@@ -227,6 +227,17 @@ footer {
 	opacity: 1.0;
 }
 
+@media (max-width: 1024px){
+  .header h1 {
+	font-size: 45px;
+  }
+  .header li {
+    font-size: 15px;
+  }
+  .comment {
+  	font-size: 35px; 
+  }
+}
 
 
 
